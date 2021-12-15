@@ -1,0 +1,10 @@
+body {
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(255, 0, 234));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 95%;
+    background-position: 30px 30px;
+    padding-bottom: 45;
+    padding-left: 95px;
+    padding-right: 95px;
+   }
